@@ -29,9 +29,9 @@ const loadImage = (src,onOver)=>{
 };
 
 
-const typeTexts = `性癖启蒙
-萌二期精神支柱
-聊到就滔滔不绝
+const typeTexts = `a
+新世界的大门
+b
 想尽办法去洗它
 
 见一次就骂一次
